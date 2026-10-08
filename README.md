@@ -1,0 +1,1 @@
+Janus is an After Effects animation utility panel focused on keyframe manipulation. It lets users align keyframes to the playhead, copy and paste values or easing, and reverse selected animations. It preserves keyframe spacing, easing, interpolation, and spatial data while providing separate controls for values and easing. 
